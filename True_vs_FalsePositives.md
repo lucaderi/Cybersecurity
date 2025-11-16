@@ -96,4 +96,22 @@ This grid is the foundation for everything!
 
 In cybersecurity, you need to understand all of them to truly evaluate a system!
 
-**Thank You!**
+----
+
+## What about Cybersecurity ?
+
+Let's apply this to an antivirus scanner on your computer.
+
+* **Legitimate File**: A safe program or document (a "Student").
+* **Virus/Malware**: A harmful file (an "Intruder").
+
+* **Accuracy**: What percentage of all files did the antivirus judge correctly? (Not very useful on its own).
+* **Precision**: When the antivirus says "This is a virus!", how often is it right? High Precision is good for users because it means you don't get constant false alarms that interrupt your work for no reason.
+* **Recall**: What percentage of all the actual viruses on your computer did it find and remove? High Recall is crucial for security because you don't want any malware hiding on your system.
+* **Specificity**: What percentage of all the safe files did the antivirus correctly leave alone? High Specificity is good for performance because your safe files aren't constantly being scanned and quarantined for no reason.
+
+## Trade-off between Recall and Precision.
+
+* If you set your antivirus to be extremely sensitive (high recall, catches every possible threat), it might also start flagging safe files as viruses (low precision).
+* If you set it to be very strict (high precision, only alerts on sure things), it might miss some new, clever viruses (low recall).
+  
