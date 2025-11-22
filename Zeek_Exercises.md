@@ -6,7 +6,7 @@
 * Integrate network monitoring into continuous risk assessment frameworks
 
 ## Prerequisites
-* Virtual Machine with Zeek installed
+* Virtual Machine with Zeek installed. You can download binary packages from [this repository](https://github.com/zeek/zeek/wiki/Binary-Packages)
 * Sample PCAP files provided in course materials
 * Basic familiarity with command-line tools (awk, sort, uniq, zeek-cut)
 
