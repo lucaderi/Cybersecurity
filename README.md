@@ -10,3 +10,9 @@ This is a repository of notes used to teach university students about cybersecur
 - once everything is settled, the project status will be set to "Project Ready for Presentation" so we can schedule a date for oral presentation. Projects not labelled as ready will not be scheduled yet.
 
 Note that we expect you to be able to present your work in 15-20 mins max, so tune your time and project accordingly, and in case you are presenting a tool make sure you can demo it during your oral session.
+
+Remember that the oral session is divided in two parts:
+- your project (15 mins)
+- topics covered and listed on the syllabus
+
+In other words, the oral exame is NOT only about your project presentation.
